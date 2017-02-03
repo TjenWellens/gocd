@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/TjenWellens/gocd/issues"
   },
-  "homepage": "https://github.com/TjenWellens/gocd#readme"
+  "homepage": "https://github.com/TjenWellens/gocd#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
