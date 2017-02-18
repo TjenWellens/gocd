@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "out/",
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "inlineSources": true,
+    "moduleResolution": "node"
+  },
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "exclude": ["node_modules"],
+  "filesGlob": "**/*.ts"
+}
